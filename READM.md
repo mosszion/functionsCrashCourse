@@ -1,1 +1,3 @@
  # functionsCrashCourse
+ I am going to work on functions in this section...
+ 
